@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/j4NzaRgaG8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.Domain\\AgendaApp.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafal\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,51 @@
+﻿@page "/cadastrar-tarefas"
+
+<div class="m-4">
+    <div class="card">
+        <div class="card-body">
+
+            <h3 class="mt-2">Cadastro de tarefas</h3>
+            <p>Crie uma tarefa em sua agenda.</p>
+
+            <hr />
+
+            <form>
+
+                <div class="mb-2">
+                    <label>Nome da tarefa:</label>
+                    <input type="text" class="form-control" />
+                </div>
+
+                <div class="mb-2">
+                    <label>Data e hora da tarefa:</label>
+                    <input type="datetime-local" class="form-control" />
+                </div>
+
+                <div class="mb-2">
+                    <label>Descrição:</label>
+                    <textarea class="form-control"></textarea>
+                </div>
+
+                <div class="mb-2">
+                    <label>Prioridade:</label>
+                    <select class="form-select">
+                        <option value="">Escolha uma opção</option>
+                    </select>
+                </div>
+
+                <div class="mb-2">
+                    <input type="submit" class="btn btn-success" value="Realizar Cadastro" />
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+</div>
+
+@code {
+
+}
+
+
+

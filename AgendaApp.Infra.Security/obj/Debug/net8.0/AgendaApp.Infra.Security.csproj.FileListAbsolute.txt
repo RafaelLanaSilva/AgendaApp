@@ -1,0 +1,15 @@
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\bin\Debug\net8.0\AgendaApp.Infra.Security.deps.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\bin\Debug\net8.0\AgendaApp.Infra.Security.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\bin\Debug\net8.0\AgendaApp.Infra.Security.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\bin\Debug\net8.0\AgendaApp.Domain.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\bin\Debug\net8.0\AgendaApp.Domain.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\AgendaApp.Infra.Security.csproj.AssemblyReference.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\AgendaApp.Infra.Security.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\AgendaApp.Infra.Security.AssemblyInfoInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\AgendaApp.Infra.Security.AssemblyInfo.cs
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\AgendaApp.Infra.Security.csproj.CoreCompileInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\AgendaAp.78AA0C94.Up2Date
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\AgendaApp.Infra.Security.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\refint\AgendaApp.Infra.Security.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\AgendaApp.Infra.Security.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\ref\AgendaApp.Infra.Security.dll

@@ -1,0 +1,24 @@
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\bin\Debug\net8.0\AgendaApp.Domain.deps.json
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\bin\Debug\net8.0\AgendaApp.Domain.dll
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\bin\Debug\net8.0\AgendaApp.Domain.pdb
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.csproj.AssemblyReference.cache
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.AssemblyInfoInputs.cache
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.AssemblyInfo.cs
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.csproj.CoreCompileInputs.cache
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.dll
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\refint\AgendaApp.Domain.dll
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.pdb
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\ref\AgendaApp.Domain.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\bin\Debug\net8.0\AgendaApp.Domain.deps.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\bin\Debug\net8.0\AgendaApp.Domain.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\bin\Debug\net8.0\AgendaApp.Domain.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.csproj.AssemblyReference.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.AssemblyInfoInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.AssemblyInfo.cs
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\refint\AgendaApp.Domain.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\ref\AgendaApp.Domain.dll

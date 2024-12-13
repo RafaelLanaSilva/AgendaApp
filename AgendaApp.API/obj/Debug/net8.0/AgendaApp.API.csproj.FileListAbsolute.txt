@@ -1,0 +1,92 @@
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\bin\Debug\net8.0\appsettings.Development.json
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\bin\Debug\net8.0\appsettings.json
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.API.exe
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.API.deps.json
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.API.runtimeconfig.json
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.API.dll
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.API.pdb
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.csproj.AssemblyReference.cache
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.AssemblyInfoInputs.cache
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.AssemblyInfo.cs
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.csproj.CoreCompileInputs.cache
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets\msbuild.AgendaApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.AgendaApp.API.props
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AgendaApp.API.props
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AgendaApp.API.props
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\scopedcss\bundle\AgendaApp.API.styles.css
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.csproj.CopyComplete
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.dll
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\refint\AgendaApp.API.dll
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.pdb
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.genruntimeconfig.cache
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.API\obj\Debug\net8.0\ref\AgendaApp.API.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\appsettings.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.API.staticwebassets.endpoints.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.API.exe
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.API.deps.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.API.runtimeconfig.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.API.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.API.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\DnsClient.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\MongoDB.Bson.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\MongoDB.Driver.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\SharpCompress.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Snappier.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.Domain.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.Infra.Data.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.Domain.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.Infra.Data.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.csproj.AssemblyReference.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.AssemblyInfoInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.AssemblyInfo.cs
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.csproj.CoreCompileInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\scopedcss\bundle\AgendaApp.API.styles.css
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets\msbuild.AgendaApp.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets\msbuild.AgendaApp.API.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets\msbuild.build.AgendaApp.API.props
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AgendaApp.API.props
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AgendaApp.API.props
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaAp.6B75BEED.Up2Date
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\refint\AgendaApp.API.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.genruntimeconfig.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\ref\AgendaApp.API.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.Infra.Messages.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.Infra.Messages.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.Infra.Security.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.Infra.Security.pdb

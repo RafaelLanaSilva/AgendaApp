@@ -1,0 +1,20 @@
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.csproj.AssemblyReference.cache
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.AssemblyInfoInputs.cache
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.AssemblyInfo.cs
+C:\CSharp_SQS_Manha\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\bin\Debug\net8.0\AgendaApp.Infra.Data.deps.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\bin\Debug\net8.0\AgendaApp.Infra.Data.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\bin\Debug\net8.0\AgendaApp.Infra.Data.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\bin\Debug\net8.0\AgendaApp.Domain.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\bin\Debug\net8.0\AgendaApp.Domain.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.csproj.AssemblyReference.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.AssemblyInfo.cs
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaAp.B79A7CB8.Up2Date
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\refint\AgendaApp.Infra.Data.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\ref\AgendaApp.Infra.Data.dll

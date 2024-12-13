@@ -1,0 +1,15 @@
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\bin\Debug\net8.0\AgendaApp.Infra.Messages.deps.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\bin\Debug\net8.0\AgendaApp.Infra.Messages.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\bin\Debug\net8.0\AgendaApp.Infra.Messages.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\bin\Debug\net8.0\AgendaApp.Domain.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\bin\Debug\net8.0\AgendaApp.Domain.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\obj\Debug\net8.0\AgendaApp.Infra.Messages.csproj.AssemblyReference.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\obj\Debug\net8.0\AgendaApp.Infra.Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\obj\Debug\net8.0\AgendaApp.Infra.Messages.AssemblyInfoInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\obj\Debug\net8.0\AgendaApp.Infra.Messages.AssemblyInfo.cs
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\obj\Debug\net8.0\AgendaApp.Infra.Messages.csproj.CoreCompileInputs.cache
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\obj\Debug\net8.0\AgendaAp.147D38B1.Up2Date
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\obj\Debug\net8.0\AgendaApp.Infra.Messages.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\obj\Debug\net8.0\refint\AgendaApp.Infra.Messages.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\obj\Debug\net8.0\AgendaApp.Infra.Messages.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Messages\obj\Debug\net8.0\ref\AgendaApp.Infra.Messages.dll

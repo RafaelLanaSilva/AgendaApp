@@ -1,0 +1,61 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = AgendaApp.UI
+build_property.RootNamespace = AgendaApp.UI
+build_property.ProjectDir = C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = false
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/rafal/OneDrive/Área de Trabalho/AgendaApp/AgendaApp.UI/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafal/OneDrive/Área de Trabalho/AgendaApp/AgendaApp.UI/Pages/AutenticarPessoa.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQXV0ZW50aWNhclBlc3NvYS5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafal/OneDrive/Área de Trabalho/AgendaApp/AgendaApp.UI/Pages/CadastrarTarefas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FkYXN0cmFyVGFyZWZhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafal/OneDrive/Área de Trabalho/AgendaApp/AgendaApp.UI/Pages/ConsultarTarefas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ29uc3VsdGFyVGFyZWZhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafal/OneDrive/Área de Trabalho/AgendaApp/AgendaApp.UI/Pages/CriarPessoa.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JpYXJQZXNzb2EucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafal/OneDrive/Área de Trabalho/AgendaApp/AgendaApp.UI/Pages/EditarTarefas.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdGFyVGFyZWZhcy5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafal/OneDrive/Área de Trabalho/AgendaApp/AgendaApp.UI/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rafal/OneDrive/Área de Trabalho/AgendaApp/AgendaApp.UI/Layout/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE1haW5MYXlvdXQucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-c8rwvcdw5l
+
+[C:/Users/rafal/OneDrive/Área de Trabalho/AgendaApp/AgendaApp.UI/Layout/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = TGF5b3V0XE5hdk1lbnUucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = b-xb28t7om6g

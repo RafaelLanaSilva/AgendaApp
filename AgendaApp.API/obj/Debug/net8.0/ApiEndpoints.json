@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "AgendaApp.API.Controllers.PessoasController",
+    "Method": "Autenticar",
+    "RelativePath": "api/pessoas/autenticar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AgendaApp.Domain.Dtos.Requests.AutenticarPessoaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AgendaApp.Domain.Dtos.Responses.AutenticarPessoaResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "AgendaApp.API.Controllers.PessoasController",
+    "Method": "Criar",
+    "RelativePath": "api/pessoas/criar",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AgendaApp.Domain.Dtos.Requests.CriarPessoaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AgendaApp.Domain.Dtos.Responses.CriarPessoaResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  },
+  {
+    "ContainingType": "AgendaApp.API.Controllers.TarefasController",
+    "Method": "Post",
+    "RelativePath": "api/tarefas",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "AgendaApp.Domain.Dtos.Requests.TarefaRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "AgendaApp.Domain.Dtos.Responses.TarefaResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 201
+      }
+    ]
+  }
+]
