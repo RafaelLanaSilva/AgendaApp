@@ -1,4 +1,5 @@
 using AgendaApp.UI;
+using AgendaApp.UI.Interceptors;
 using AgendaApp.UI.Services;
 using Blazored.LocalStorage;
 using Microsoft.AspNetCore.Components.Web;
@@ -22,7 +23,12 @@ builder.Services.AddBlazoredLocalStorage();
 /*
  * Configuração para injeções de dependência
  */
-builder.Services.AddTransient<AuthService>();
+builder.Services.AddScoped<AuthService>();
+
+/*
+ * Configuração para o Interceptor
+ */
+builder.Services.AddScoped<AuthInterceptor>();
 
 await builder.Build().RunAsync();
 

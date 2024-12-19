@@ -13,3 +13,4 @@ C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\refint\AgendaApp.Infra.Security.dll
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\AgendaApp.Infra.Security.pdb
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\ref\AgendaApp.Infra.Security.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Security\obj\Debug\net8.0\AgendaApp.Infra.Security.sourcelink.json

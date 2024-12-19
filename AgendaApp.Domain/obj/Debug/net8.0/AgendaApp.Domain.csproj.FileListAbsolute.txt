@@ -22,3 +22,4 @@ C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\n
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\refint\AgendaApp.Domain.dll
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.pdb
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\ref\AgendaApp.Domain.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Domain\obj\Debug\net8.0\AgendaApp.Domain.sourcelink.json

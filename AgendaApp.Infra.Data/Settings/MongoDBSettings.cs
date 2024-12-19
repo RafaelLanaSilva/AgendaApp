@@ -11,7 +11,7 @@ namespace AgendaApp.Infra.Data.Settings
         /// <summary>
         /// Endereço para conexão com o servidor do MongoDB
         /// </summary>
-        public static string Host => "mongodb://localhost:27017";
+        public static string Host => "mongodb+srv://usuariocoti:senhacoti@cluster0.ev0tq.mongodb.net/";
 
         /// <summary>
         /// Nome do banco de dados do MongoDB

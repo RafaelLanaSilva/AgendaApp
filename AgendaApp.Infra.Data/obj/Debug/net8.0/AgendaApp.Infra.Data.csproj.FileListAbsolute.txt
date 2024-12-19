@@ -18,3 +18,4 @@ C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Deb
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\refint\AgendaApp.Infra.Data.dll
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.pdb
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\ref\AgendaApp.Infra.Data.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.Infra.Data\obj\Debug\net8.0\AgendaApp.Infra.Data.sourcelink.json

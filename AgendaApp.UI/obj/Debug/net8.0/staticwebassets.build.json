@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/+Lj73GFOHNbYCxqHBndY3kt6nXCyTpdYa5vNbYwaZI=",
+  "Hash": "y7nM/eK4HzUyh6Bru/LUA7YdcSSUkFtvb7T/JZsao5w=",
   "Source": "AgendaApp.UI",
   "BasePath": "/",
   "Mode": "Root",
@@ -31,8 +31,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "xqhxoevawr",
-      "Integrity": "GVjhmTEMqu0rTfLUjanxbEGfxCHU/tQ+S87L7YlBZpI=",
+      "Fingerprint": "c8i1rtf939",
+      "Integrity": "jNFi0v8wrBtuHN3dAvxbJ7VIV/mDc7FCllWxjT7jzaE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\AgendaApp.UI.pdb"
@@ -52,8 +52,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "l2crevitb4",
-      "Integrity": "I4CEnozbhpnkv84VsVsa1VlqUcPi1e3u+M8u2krlun4=",
+      "Fingerprint": "c1la3b9nfm",
+      "Integrity": "AMgvwSakQhw1sKEtC/R9vrgs877OFasKtu2211zlaRo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\webcil\\AgendaApp.UI.wasm"
@@ -73,8 +73,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "ylc0i5oasn",
-      "Integrity": "KjpN3l9p7YeLmZyMj+ScRvP2PfKL2zmFGKGKwrnfCDw=",
+      "Fingerprint": "wj1c81lmi4",
+      "Integrity": "JPGn/no6zbPVYx7poeQNprVB/cpdcaG/mAVozmJtqJo=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net8.0\\blazor.boot.json"
@@ -4553,7 +4553,7 @@
       "OriginalItemSpec": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Diagnostics.Tools.wasm"
     },
     {
-      "Identity": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\0yr6lt4ldv-l2crevitb4.gz",
+      "Identity": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\0yr6lt4ldv-c1la3b9nfm.gz",
       "SourceId": "AgendaApp.UI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\",
@@ -4567,8 +4567,8 @@
       "RelatedAsset": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AgendaApp.UI.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "38np65bzci",
-      "Integrity": "06sNWWhtxYBM1hpkamM89G2fDdOQK5B7+sDy5Xc+m5s=",
+      "Fingerprint": "jus359cn66",
+      "Integrity": "yx2NaiSt3I8h5YVK1ps8b0p4YTlnYmgwutW7X+M9veg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AgendaApp.UI.wasm"
@@ -7976,7 +7976,7 @@
       "OriginalItemSpec": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Dynamic.Runtime.wasm"
     },
     {
-      "Identity": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\ugledp39c4-xqhxoevawr.gz",
+      "Identity": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\ugledp39c4-c8i1rtf939.gz",
       "SourceId": "AgendaApp.UI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\",
@@ -7990,8 +7990,8 @@
       "RelatedAsset": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AgendaApp.UI.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "yb5g526gdw",
-      "Integrity": "/ks8KFANkyY1OURVh3JOUhzTI/PLzbsKCg5Jpdh91Zg=",
+      "Fingerprint": "1niq2osvdo",
+      "Integrity": "I/0Nt6KsQ/PzN34aU1CxH3nHS0iMGv4Wm10uCAHfehQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\AgendaApp.UI.pdb"
@@ -8564,7 +8564,7 @@
       "OriginalItemSpec": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\System.Threading.Tasks.wasm"
     },
     {
-      "Identity": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\z5ujwis3jt-ylc0i5oasn.gz",
+      "Identity": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\z5ujwis3jt-wj1c81lmi4.gz",
       "SourceId": "AgendaApp.UI",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\",
@@ -8578,8 +8578,8 @@
       "RelatedAsset": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "zubl7ncmz6",
-      "Integrity": "tW0vaJhx5eLFKcsXAYkaX4WGA2TWIVA2QAcAMM+3738=",
+      "Fingerprint": "3uzbuxmtw8",
+      "Integrity": "KyyBnClVf7cCT5yg/TmUORfrFNVTY1Z6+9JIp45/wgQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8870,7 +8870,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "29340"
+          "Value": "44264"
         },
         {
           "Name": "Content-Type",
@@ -8878,11 +8878,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GVjhmTEMqu0rTfLUjanxbEGfxCHU/tQ+S87L7YlBZpI=\""
+          "Value": "\"jNFi0v8wrBtuHN3dAvxbJ7VIV/mDc7FCllWxjT7jzaE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 15:53:56 GMT"
+          "Value": "Wed, 18 Dec 2024 13:42:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8892,18 +8892,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GVjhmTEMqu0rTfLUjanxbEGfxCHU/tQ+S87L7YlBZpI="
+          "Value": "sha256-jNFi0v8wrBtuHN3dAvxbJ7VIV/mDc7FCllWxjT7jzaE="
         }
       ]
     },
     {
       "Route": "_framework/AgendaApp.UI.pdb",
-      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\ugledp39c4-xqhxoevawr.gz",
+      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\ugledp39c4-c8i1rtf939.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000040918205"
+          "Quality": "0.000030387748"
         }
       ],
       "ResponseHeaders": [
@@ -8913,15 +8913,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24438"
+          "Value": "32907"
         },
         {
           "Name": "ETag",
-          "Value": "\"/ks8KFANkyY1OURVh3JOUhzTI/PLzbsKCg5Jpdh91Zg=\""
+          "Value": "\"I/0Nt6KsQ/PzN34aU1CxH3nHS0iMGv4Wm10uCAHfehQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:12:57 GMT"
+          "Value": "Wed, 18 Dec 2024 13:42:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8941,19 +8941,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GVjhmTEMqu0rTfLUjanxbEGfxCHU/tQ+S87L7YlBZpI=\""
+          "Value": "W/\"jNFi0v8wrBtuHN3dAvxbJ7VIV/mDc7FCllWxjT7jzaE=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GVjhmTEMqu0rTfLUjanxbEGfxCHU/tQ+S87L7YlBZpI="
+          "Value": "sha256-jNFi0v8wrBtuHN3dAvxbJ7VIV/mDc7FCllWxjT7jzaE="
         }
       ]
     },
     {
       "Route": "_framework/AgendaApp.UI.pdb.gz",
-      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\ugledp39c4-xqhxoevawr.gz",
+      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\ugledp39c4-c8i1rtf939.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -8962,7 +8962,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "24438"
+          "Value": "32907"
         },
         {
           "Name": "Content-Type",
@@ -8970,11 +8970,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"/ks8KFANkyY1OURVh3JOUhzTI/PLzbsKCg5Jpdh91Zg=\""
+          "Value": "\"I/0Nt6KsQ/PzN34aU1CxH3nHS0iMGv4Wm10uCAHfehQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:12:57 GMT"
+          "Value": "Wed, 18 Dec 2024 13:42:37 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -8992,7 +8992,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-/ks8KFANkyY1OURVh3JOUhzTI/PLzbsKCg5Jpdh91Zg="
+          "Value": "sha256-I/0Nt6KsQ/PzN34aU1CxH3nHS0iMGv4Wm10uCAHfehQ="
         }
       ]
     },
@@ -9007,7 +9007,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "30997"
+          "Value": "61717"
         },
         {
           "Name": "Content-Type",
@@ -9015,11 +9015,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"I4CEnozbhpnkv84VsVsa1VlqUcPi1e3u+M8u2krlun4=\""
+          "Value": "\"AMgvwSakQhw1sKEtC/R9vrgs877OFasKtu2211zlaRo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 15:53:56 GMT"
+          "Value": "Wed, 18 Dec 2024 12:11:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9029,18 +9029,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I4CEnozbhpnkv84VsVsa1VlqUcPi1e3u+M8u2krlun4="
+          "Value": "sha256-AMgvwSakQhw1sKEtC/R9vrgs877OFasKtu2211zlaRo="
         }
       ]
     },
     {
       "Route": "_framework/AgendaApp.UI.wasm",
-      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\0yr6lt4ldv-l2crevitb4.gz",
+      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\0yr6lt4ldv-c1la3b9nfm.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000075414781"
+          "Quality": "0.000045731010"
         }
       ],
       "ResponseHeaders": [
@@ -9050,15 +9050,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13259"
+          "Value": "21866"
         },
         {
           "Name": "ETag",
-          "Value": "\"06sNWWhtxYBM1hpkamM89G2fDdOQK5B7+sDy5Xc+m5s=\""
+          "Value": "\"yx2NaiSt3I8h5YVK1ps8b0p4YTlnYmgwutW7X+M9veg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 14:46:41 GMT"
+          "Value": "Wed, 18 Dec 2024 12:11:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9078,19 +9078,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"I4CEnozbhpnkv84VsVsa1VlqUcPi1e3u+M8u2krlun4=\""
+          "Value": "W/\"AMgvwSakQhw1sKEtC/R9vrgs877OFasKtu2211zlaRo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-I4CEnozbhpnkv84VsVsa1VlqUcPi1e3u+M8u2krlun4="
+          "Value": "sha256-AMgvwSakQhw1sKEtC/R9vrgs877OFasKtu2211zlaRo="
         }
       ]
     },
     {
       "Route": "_framework/AgendaApp.UI.wasm.gz",
-      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\0yr6lt4ldv-l2crevitb4.gz",
+      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\0yr6lt4ldv-c1la3b9nfm.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9099,7 +9099,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "13259"
+          "Value": "21866"
         },
         {
           "Name": "Content-Type",
@@ -9107,11 +9107,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"06sNWWhtxYBM1hpkamM89G2fDdOQK5B7+sDy5Xc+m5s=\""
+          "Value": "\"yx2NaiSt3I8h5YVK1ps8b0p4YTlnYmgwutW7X+M9veg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 14:46:41 GMT"
+          "Value": "Wed, 18 Dec 2024 12:11:35 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9129,7 +9129,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-06sNWWhtxYBM1hpkamM89G2fDdOQK5B7+sDy5Xc+m5s="
+          "Value": "sha256-yx2NaiSt3I8h5YVK1ps8b0p4YTlnYmgwutW7X+M9veg="
         }
       ]
     },
@@ -9152,11 +9152,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"KjpN3l9p7YeLmZyMj+ScRvP2PfKL2zmFGKGKwrnfCDw=\""
+          "Value": "\"JPGn/no6zbPVYx7poeQNprVB/cpdcaG/mAVozmJtqJo=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 13 Dec 2024 15:53:58 GMT"
+          "Value": "Wed, 18 Dec 2024 14:06:19 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9166,13 +9166,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KjpN3l9p7YeLmZyMj+ScRvP2PfKL2zmFGKGKwrnfCDw="
+          "Value": "sha256-JPGn/no6zbPVYx7poeQNprVB/cpdcaG/mAVozmJtqJo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\z5ujwis3jt-ylc0i5oasn.gz",
+      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\z5ujwis3jt-wj1c81lmi4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -9191,11 +9191,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tW0vaJhx5eLFKcsXAYkaX4WGA2TWIVA2QAcAMM+3738=\""
+          "Value": "\"KyyBnClVf7cCT5yg/TmUORfrFNVTY1Z6+9JIp45/wgQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:13:00 GMT"
+          "Value": "Wed, 18 Dec 2024 13:42:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9215,19 +9215,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"KjpN3l9p7YeLmZyMj+ScRvP2PfKL2zmFGKGKwrnfCDw=\""
+          "Value": "W/\"JPGn/no6zbPVYx7poeQNprVB/cpdcaG/mAVozmJtqJo=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-KjpN3l9p7YeLmZyMj+ScRvP2PfKL2zmFGKGKwrnfCDw="
+          "Value": "sha256-JPGn/no6zbPVYx7poeQNprVB/cpdcaG/mAVozmJtqJo="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\z5ujwis3jt-ylc0i5oasn.gz",
+      "AssetFile": "C:\\Users\\rafal\\OneDrive\\Área de Trabalho\\AgendaApp\\AgendaApp.UI\\obj\\Debug\\net8.0\\compressed\\z5ujwis3jt-wj1c81lmi4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -9244,11 +9244,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"tW0vaJhx5eLFKcsXAYkaX4WGA2TWIVA2QAcAMM+3738=\""
+          "Value": "\"KyyBnClVf7cCT5yg/TmUORfrFNVTY1Z6+9JIp45/wgQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 11 Dec 2024 15:13:00 GMT"
+          "Value": "Wed, 18 Dec 2024 13:42:41 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -9266,7 +9266,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-tW0vaJhx5eLFKcsXAYkaX4WGA2TWIVA2QAcAMM+3738="
+          "Value": "sha256-KyyBnClVf7cCT5yg/TmUORfrFNVTY1Z6+9JIp45/wgQ="
         }
       ]
     },

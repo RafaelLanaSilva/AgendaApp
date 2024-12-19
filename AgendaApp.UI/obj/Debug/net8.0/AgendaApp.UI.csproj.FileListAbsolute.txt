@@ -2070,6 +2070,7 @@ C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\bin\Debug\net8.
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\bin\Debug\net8.0\Blazored.LocalStorage.dll
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\obj\Debug\net8.0\webcil\Blazored.LocalStorage.wasm
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\obj\Debug\net8.0\compressed\aw5e0mod02-12n6dz54qr.gz
-C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\obj\Debug\net8.0\compressed\0yr6lt4ldv-l2crevitb4.gz
-C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\obj\Debug\net8.0\compressed\ugledp39c4-xqhxoevawr.gz
-C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\obj\Debug\net8.0\compressed\z5ujwis3jt-ylc0i5oasn.gz
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\obj\Debug\net8.0\AgendaApp.UI.sourcelink.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\obj\Debug\net8.0\compressed\0yr6lt4ldv-c1la3b9nfm.gz
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\obj\Debug\net8.0\compressed\ugledp39c4-c8i1rtf939.gz
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.UI\obj\Debug\net8.0\compressed\z5ujwis3jt-wj1c81lmi4.gz

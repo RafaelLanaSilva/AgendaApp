@@ -43,9 +43,21 @@
     </div>
 </div>
 
+@using AgendaApp.UI.Services
+
+@inject AuthService Auth
+@inject NavigationManager Navigation
+
 @code {
 
+    protected override async Task OnInitializedAsync()
+    {
+        if (!await Auth.IsLoggedIn()) Navigation.NavigateTo("/", true);
+    }
 }
+
+
+
 
 
 

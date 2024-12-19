@@ -65,6 +65,9 @@
 @* Injeção de dependência da classe de serviço *@
 @inject AuthService Auth
 
+@* Injeção de dependência do NavigationManager *@
+@inject NavigationManager Navigation
+
 @* Área para programação do código C# da página *@
 @code {
 
@@ -73,6 +76,14 @@
 
     //variável para exibir mensagem de erro
     private string mensagemErro;
+
+    /*
+    * Método executado quando a página for aberta
+    */
+    protected override async Task OnInitializedAsync()
+    {
+        if (await Auth.IsLoggedIn()) Navigation.NavigateTo("/consultar-tarefas", true);
+    }
 
     //função para capturar o evento SUBMIT do formulário
     private async Task OnSubmit()

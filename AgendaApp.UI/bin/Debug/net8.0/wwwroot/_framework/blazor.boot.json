@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "AgendaApp.UI",
   "resources": {
-    "hash": "sha256-wMgSnOiei1TEj7hAReeUMlIRg4XrxlzF0ena6ELf7VE=",
+    "hash": "sha256-10f1vizEfIYjQpZnRoCBNZeHZumZQ2HjVr+3F6siXB4=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-VdKq87/z5NIxZKmuM+fv38XF+RcEb/bg3jVBwQSfwP4="
     },
@@ -210,10 +210,10 @@
       "mscorlib.wasm": "sha256-EpWTfh4m/hEcXRFYMCR9YeYHwdUJgcm1laBaxWfq2S4=",
       "netstandard.wasm": "sha256-2kH24/YfHmU3B4eYRyRmiwebYROM4+B9eDWKvMnUdP8=",
       "System.Private.CoreLib.wasm": "sha256-CsySKiP7HYY1pS8LTDE60EkqiX5oHb3WoEZHDNd1yK0=",
-      "AgendaApp.UI.wasm": "sha256-I4CEnozbhpnkv84VsVsa1VlqUcPi1e3u+M8u2krlun4="
+      "AgendaApp.UI.wasm": "sha256-AMgvwSakQhw1sKEtC/R9vrgs877OFasKtu2211zlaRo="
     },
     "pdb": {
-      "AgendaApp.UI.pdb": "sha256-GVjhmTEMqu0rTfLUjanxbEGfxCHU/tQ+S87L7YlBZpI="
+      "AgendaApp.UI.pdb": "sha256-jNFi0v8wrBtuHN3dAvxbJ7VIV/mDc7FCllWxjT7jzaE="
     }
   },
   "cacheBootResources": true,

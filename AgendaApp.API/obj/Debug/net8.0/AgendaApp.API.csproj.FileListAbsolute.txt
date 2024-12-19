@@ -90,3 +90,10 @@ C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.Infra.Security.dll
 C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\AgendaApp.Infra.Security.pdb
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\obj\Debug\net8.0\AgendaApp.API.sourcelink.json
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\rafal\OneDrive\Área de Trabalho\AgendaApp\AgendaApp.API\bin\Debug\net8.0\Newtonsoft.Json.dll
